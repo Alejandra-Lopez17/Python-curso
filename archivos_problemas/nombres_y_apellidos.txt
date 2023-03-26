@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Alejandra
+Apellido: Lopez
+-----------
+Nombre: Andrea
+Apellido: Ospino
+-----------
+Nombre: Ruby
+Apellido: Hernandez
+-----------
+Nombre: Roberto
+Apellido: Gabiria
+-----------
+Nombre: Fernando
+Apellido: Escobar
+-----------
